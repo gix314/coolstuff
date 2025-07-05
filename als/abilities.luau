@@ -23,7 +23,7 @@ local abilities = {
     AiHoshinoEvo = {{Name = 'Concert', Upgrades=6}},
     --Special
     GodlyEnkidu = {{Name = 'Enomo Olis: Bloom', Upgrades=8}},
-    GokuVegetaFusion = {{Name = 'Spirit Finisher', Upgrades=0}, {Name = 'Final Energy Beam', Upgrades=0}},
+    GokuVegetaFusion = {{Name = 'Spirit Finisher', Upgrades=11}, {Name = 'Final Energy Beam', Upgrades=12}},
 }
 
 return abilities;
