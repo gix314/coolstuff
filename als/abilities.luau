@@ -1,28 +1,28 @@
 local abilities = {
     --Godly
-    FrierenGodly = {"Mage's Staff", 'Black Hole', 'Ancient Golem', 'Mastered Zeltreck'},
-    GilgameshGodly = {'Enomo Olis', 'Combined Noble Special: Enomo Olis'},
-    ShinraGodly = {Neutral = {'Fabric of Reality'}, Dark = {'Despair'}, Light = {'Lightning Shower'}, Fire = {'Volcanic Eruption'}, Nature = {'Purification of Life'}, Water = {'Ice Terrain'} },
-    CosmicGarou = {'Galactic Destroyer', 'Serious Punch'},
-    LuffyG5 = {'Ultimate Gun'},
-    SungMonarch = {'System', 'Shadow Index', 'Cup Of Rebirth'},
-    JinMoriGodly = {'Nirvana'},
-    GokuMUI = {'Divine Avatar', 'Final Spiritual Bomb'},
-    Mugetsu = {'Kai Release'},
-    ['Dio Over Heaven'] = {'Road Roller', 'Over Heaven Special'},
-    SukunaGodly = {'Divine Flames', 'Evil Shrine', 'World Cutting Slash'},
-    EscanorGodly = {'The One Ultimate'},
+    FrierenGodly = {{Name = "Mage's Staff", Upgrades=0}, {Name = 'Black Hole', Upgrades=0}, {Name = 'Ancient Golem', Upgrades=0}, {Name = 'Mastered Zeltreck', Upgrades=0}},
+    GilgameshGodly = {{Name = 'Enomo Olis', Upgrades=0}, {Name = 'Combined Noble Special: Enomo Olis', Upgrades=0}},
+    ShinraGodly = {Neutral = {{Name = 'Fabric of Reality', Upgrades=0}}, Dark = {{Name = 'Despair', Upgrades=0}}, Light = {{Name = 'Lightning Shower', Upgrades=0}}, Fire = {{Name = 'Volcanic Eruption', Upgrades=0}}, Nature = {{Name = 'Purification of Life', Upgrades=0}}, Water = {{Name = 'Ice Terrain', Upgrades=0}} },
+    CosmicGarou = {{Name = 'Galactic Destroyer', Upgrades=0}, {Name = 'Serious Punch', Upgrades=0}},
+    LuffyG5 = {{Name = 'Ultimate Gun', Upgrades=0}},
+    SungMonarch = {{Name = 'System', Upgrades=0}, {Name = 'Shadow Index', Upgrades=0}, {Name = 'Cup Of Rebirth', Upgrades=0}},
+    JinMoriGodly = {{Name = 'Nirvana', Upgrades=0}},
+    GokuMUI = {{Name = 'Divine Avatar', Upgrades=0}, {Name = 'Final Spiritual Bomb', Upgrades=0}},
+    Mugetsu = {{Name = 'Kai Release', Upgrades=0}},
+    ['Dio Over Heaven'] = {{Name = 'Road Roller', Upgrades=0}, {Name = 'Over Heaven Special', Upgrades=0}},
+    SukunaGodly = {{Name = 'Divine Flames', Upgrades=0}, {Name = 'Evil Shrine', Upgrades=0}, {Name = 'World Cutting Slash', Upgrades=0}},
+    EscanorGodly = {{Name = 'The One Ultimate', Upgrades=0}},
     --EZA
-    GojoEvo2EZA = {'Unlimited Void', 'Purple: MAXIMUM EX'},
+    GojoEvo2EZA = {{Name = 'Unlimited Void', Upgrades=0}, {Name = 'Purple: MAXIMUM EX', Upgrades=0}},
     --Casual
-    CIDEvo2 = {'Mini Atomic', 'Final Atomic'},
-    LawEvo2 = {'ROOM!!!'},
-    AstaImperial = {"King's Sword Finisher"},
+    CIDEvo2 = {{Name = 'Mini Atomic', Upgrades=0}, {Name = 'Final Atomic', Upgrades=0}},
+    LawEvo2 = {{Name = 'ROOM!!!', Upgrades=0}},
+    AstaImperial = {{Name = "King's Sword Finisher", Upgrades=0}},
     --Farm
-    AiHoshinoEvo = {'Concert'},
+    AiHoshinoEvo = {{Name = 'Concert', Upgrades=6}},
     --Special
-    GodlyEnkidu = {'Enomo Olis: Bloom'},
-    GokuVegetaFusion = {'Spirit Finisher', 'Final Energy Beam'},
+    GodlyEnkidu = {{Name = 'Enomo Olis: Bloom', Upgrades=0}},
+    GokuVegetaFusion = {{Name = 'Spirit Finisher', Upgrades=0}, {Name = 'Final Energy Beam', Upgrades=0}},
 }
 
 return abilities;
