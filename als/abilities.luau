@@ -16,6 +16,7 @@ local abilities = {
     GojoEvo2EZA = {{Name = 'Unlimited Void', Upgrades=3}, {Name = 'Purple: MAXIMUM EX', Upgrades=11}},
     --Casual
     CIDEvo2 = {{Name = 'Mini Atomic', Upgrades=13}, {Name = 'Final Atomic', Upgrades=14}},
+    YutaEvo = {{Name = 'Heavenly Ladder', Upgrades=11}, {Name = 'Heavenly Ladder: MAXIMUM, Upgrades=11}, {Name = 'Pure Love', Upgrades=12}},
     AstaImperial = {{Name = "King's Sword Finisher", Upgrades=11}},
     DanteEvo = {{Name = 'Hot Swap', Upgrades=13}, {Name = 'Fire Devil Trigger', Upgrades=0}},
     VirgilEvo = {{Name = 'Dimensional Breaker', Upgrades=13}, {Name = 'Lightning Devil Trigger', Upgrades=0}},
