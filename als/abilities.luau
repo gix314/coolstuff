@@ -15,7 +15,7 @@ local abilities = {
     --EZA
     GojoEvo2EZA = {'Unlimited Void', 'Purple: MAXIMUM EX'},
     --Casual
-    CidEvo2 = {'Mini Atomic', 'Faulty Atomic', 'Final Atomic'},
+    CIDEvo2 = {'Mini Atomic', 'Faulty Atomic', 'Final Atomic'},
     LawEvo2 = {'ROOM!!!'},
     AstaImperial = {"King's Sword Finisher"},
     --Farm
