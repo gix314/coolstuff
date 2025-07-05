@@ -16,9 +16,11 @@ local abilities = {
     GojoEvo2EZA = {{Name = 'Unlimited Void', Upgrades=3}, {Name = 'Purple: MAXIMUM EX', Upgrades=11}},
     --Casual
     CIDEvo2 = {{Name = 'Mini Atomic', Upgrades=13}, {Name = 'Final Atomic', Upgrades=14}},
+    AstaImperial = {{Name = "King's Sword Finisher", Upgrades=11}},
+    DanteEvo = {{Name = 'Hot Swap', Upgrades=13}, {Name = 'Fire Devil Trigger', Upgrades=0}},
+    VirgilEvo = {{Name = 'Dimensional Breaker', Upgrades=13}, {Name = 'Lightning Devil Trigger', Upgrades=0}},
     LawEvo2 = {{Name = 'ROOM!!!', Upgrades=12}},
     SaberCasterEvo = {{Name = 'Bells', Upgrades=2}, {Name = 'Noble Special: Flower Garden', Upgrades=10}},
-    AstaImperial = {{Name = "King's Sword Finisher", Upgrades=11}},
     --Farm
     AiHoshinoEvo = {{Name = 'Concert', Upgrades=6}},
     --Special
