@@ -19,7 +19,7 @@ local abilities = {
     LawEvo2 = {{Name = 'ROOM!!!', Upgrades=0}},
     AstaImperial = {{Name = "King's Sword Finisher", Upgrades=0}},
     --Farm
-    AiHoshinoEvo = {{Name = 'Concert', Upgrades=0}},
+    AiHoshinoEvo = {{Name = 'Concert', Upgrades=6}},
     --Special
     GodlyEnkidu = {{Name = 'Enomo Olis: Bloom', Upgrades=0}},
     GokuVegetaFusion = {{Name = 'Spirit Finisher', Upgrades=0}, {Name = 'Final Energy Beam', Upgrades=0}},
