@@ -20,7 +20,7 @@ local abilities = {
     AstaImperial = {{Name = "King's Sword Finisher", Upgrades=11}},
     DanteEvo = {{Name = 'Hot Swap', Upgrades=13}, {Name = 'Fire Devil Trigger', Upgrades=0}},
     VirgilEvo = {{Name = 'Dimensional Breaker', Upgrades=13}, {Name = 'Lightning Devil Trigger', Upgrades=0}},
-    LawEvo2 = {{Name = 'ROOM!!!', Upgrades=12}},
+    LawEvo2 = {{Name = 'ROOM!!!', Upgrades=9}},
     SaberCasterEvo = {{Name = 'Bells', Upgrades=2}, {Name = 'Noble Special: Flower Garden', Upgrades=10}},
     --Farm
     AiHoshinoEvo = {{Name = 'Concert', Upgrades=6}},
