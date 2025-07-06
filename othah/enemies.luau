@@ -1,0 +1,33 @@
+local enemies = {
+"Always Active",
+"Sea Serpent",
+"Abyssal Sea Serpent",
+"Okeania, the Ocean's Authority",
+"Steve",
+"Unknown Machine",
+"Archmage",
+"The Fallen",
+"Nympha",
+"Glacies",
+"The White Death",
+"Ocean Devorator",
+"Magma Lord",
+"Burning Embrace",
+"Rain",
+"The Controller",
+"The Paladin",
+"The Ripper",
+"Starfarer",
+"Basilisk",
+"Katharos, the Pure",
+"Atrocitus, the Corrupted",
+"Equinox Praetor",
+"Virtue, Disciple of Heaven",
+"Belial, Envoy of Hell",
+"Uriel, The Gatekeeper of Heaven",
+"Beelzebub, The Beast of Gluttony",
+"Benedictus, The Avatar of Luminosity",
+"Astaroth, The Monarch of Darkness"
+}
+
+return enemies;
