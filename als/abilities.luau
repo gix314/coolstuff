@@ -22,6 +22,7 @@ local abilities = {
     VirgilEvo = {{Name = 'Dimensional Breaker', Upgrades=13}, {Name = 'Lightning Devil Trigger', Upgrades=0}},
     LawEvo2 = {{Name = 'ROOM!!!', Upgrades=9}},
     SaberCasterEvo = {{Name = 'Bells', Upgrades=2}, {Name = 'Noble Special: Flower Garden', Upgrades=10}},
+    ['Dio Greatest High'] = {{Name = 'Za Warudo!', Upgrades=9}},
     --Farm
     AiHoshinoEvo = {{Name = 'Concert', Upgrades=6}},
     --Special
