@@ -15,6 +15,7 @@ local abilities = {
     --EZA
     GojoEvo2EZA = {{Name = 'Unlimited Void', Upgrades=3}, {Name = 'Purple: MAXIMUM EX', Upgrades=11}},
     --Casual
+    CIDEvo = {{Name = 'Celestial Strike', Upgrades=9}},
     CIDEvo2 = {{Name = 'Mini Atomic', Upgrades=13}, {Name = 'Final Atomic', Upgrades=14}},
     YutaEvo = {{Name = 'Heavenly Ladder', Upgrades=11}, {Name = 'Heavenly Ladder: MAXIMUM', Upgrades=11}, {Name = 'Pure Love', Upgrades=12}},
     AstaImperial = {{Name = "King's Sword Finisher", Upgrades=11}},
