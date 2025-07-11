@@ -47,9 +47,18 @@ local abilities = {
     GetoEvo = {{Name = 'Uzumaki', Upgrades=8}, {Name = 'Uzumaki (MAXIMUM)', Upgrades=9}, {Name = 'Body Thief', Upgrades=10}},
     KashimoEvo = {{Name = 'Lightning Beast', Upgrades=11}},
     --54
-    AstaImperial = {{Name = "King's Sword Finisher", Upgrades=11}},
-    Giorno_GER = {{Name = 'Zero', Upgrades=8}},
+    Kale_Caulifla = {{Name = 'Sisters Fusion', Upgrades=7}},
+    KelfaFusion = {{Name = 'Sisters Super Transformation', Upgrades=5}},
+    KelfaFusion2 = {{Name = 'Fusion Overdrive', Upgrades=6}},
+    ShisuiEvo = {{Name = 'Kotoamatsukami: Halt', Upgrades=13}, {Name = 'Kotoamatsukami: Reverse', Upgrades=13}},
+    --53 FGO
+    MedusaFateEvo = {{Name = 'Ballarofone', Upgrades=11}},
+    IshtarEvo = {{Name = 'Venus Judgement', Upgrades=8}},
     SaberCasterEvo = {{Name = 'Bells', Upgrades=2}, {Name = 'Noble Special: Flower Garden', Upgrades=10}},
+    --52 BC
+    AstaImperial = {{Name = "King's Sword Finisher", Upgrades=11}},
+    JuliasEvo = {{Name = 'Time Vault', Upgrades=12}},
+    Giorno_GER = {{Name = 'Zero', Upgrades=8}},
     ['Dio Greatest High'] = {{Name = 'Za Warudo!', Upgrades=9}},
     CID = {{Name = 'I AM ATOMIC!', Upgrades=7}},
     CIDEvo = {{Name = 'Celestial Strike', Upgrades=9}},
