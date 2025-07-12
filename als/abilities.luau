@@ -14,6 +14,9 @@ local abilities = {
     EscanorGodly = {{Name = 'The One Ultimate', Upgrades=11}},
     --EZA
     GojoEvo2EZA = {{Name = 'Unlimited Void', Upgrades=3}, {Name = 'Purple: MAXIMUM EX', Upgrades=11}},
+    GilgameshEvoEZA = {{Name = 'Enhanced Heavenly Sword', Upgrades=10}},
+    DarkSaberEZA = {{Name = 'Dark Corruption', Upgrades=9}, {Name = 'Corrupted Excalibur', Upgrades=10}},
+    VegitoSSJBEZA = {{Name = 'Energy Beam', Upgrades=12}, {Name = 'Godly Energy Beam', Upgrades=14}},
     --Normal
     --61
     FernEvo = {{Name = 'Zeltreck', Upgrades=0}, {Name = 'Protective Blessing', Upgrades=10}},
@@ -87,13 +90,39 @@ local abilities = {
     MitsuriEvo = {{Name = "Swordswoman's Mark", Upgrades=11}},
     IsseiEvo = {{Name = 'BOOST!', Upgrades=9}},
     YoruichiEvo = {{Name = 'Thunder Goddess', Upgrades=10}},
+    --42 OP
+    KaidoHybrid = {{Name = "Plasmatic Burst", Upgrades=10}},
+    --41 1st Anniversary
+    BeastGohanEvo = {{Name = 'Everything Into One Shot', Upgrades=12}},
+    SubaruEvo = {{Name = 'Death Return', Upgrades=0}, {Name = 'Future Recall', Upgrades=9}},
+    --40 AoT
+    ErenEvo = {{Name = 'Berserk Giant', Upgrades=9}, {Name = 'Coordinate Resonance', Upgrades=10}},
+    ReinerEvo = {{Name = 'Armored Protection', Upgrades=8}},
+    ErwinEvo = {{Name = "Leader's Influence", Upgrades=1}, {Name = 'Final Speech', Upgrades=2}},
+    --37 Great Ninja War
+    MadaraSixPath = {{Name = 'Everlasting Illusion', Upgrades=11}, {Name = 'Armored Warrior', Upgrades=12}},
+    ObitoSixPath = {{Name = 'Path Displacement', Upgrades=9}},
+    MaitoGaiGates = {{Name = 'Last Resort', Upgrades=11}},
+    --35 Godly Rush
+    Ainz = {{Name = 'Death to ALL!', Upgrades=6}},
     Giorno_GER = {{Name = 'Zero', Upgrades=8}},
+    Rudeus = {{Name = 'XL-Healing', Upgrades=6}},
+    --34 Fate
+    GilgameshEvo = {{Name = 'Heavenly Sword', Upgrades=10}},
+    DarkSaber = {{Name = 'Victory Blade', Upgrades=9}},
+    --33 QoL
+    VegitoSSJB = {{Name = 'Final Blast', Upgrades=10}},
+    RengokuDemon = {{Name = 'Demon Burst', Upgrades=10}},
+    ByakuyaEvo = {{Name = 'SenbonKat', Upgrades=10}},
+    WhiteBreadEvo = {{Name = 'Quake Wave', Upgrades=10}},
     ['Dio Greatest High'] = {{Name = 'Za Warudo!', Upgrades=9}},
     CID = {{Name = 'I AM ATOMIC!', Upgrades=7}},
     CIDEvo = {{Name = 'Celestial Strike', Upgrades=9}},
     --BP/Ex
     B2Evo = {{Name = 'Self Destruction', Upgrades = 11}},
     B2EvoShiny = {{Name = 'Self Destruction', Upgrades = 11}},
+    Lancer = {{Name = 'Gaí Bolgé', Upgrades=8}},
+    LancerShiny = {{Name = 'Gaí Bolgé', Upgrades=8}},
     --Farm
     AiHoshinoEvo = {{Name = 'Concert', Upgrades=6}},
     --Special
