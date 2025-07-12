@@ -58,6 +58,35 @@ local abilities = {
     --52 BC
     AstaImperial = {{Name = "King's Sword Finisher", Upgrades=11}},
     JuliasEvo = {{Name = 'Time Vault', Upgrades=12}},
+    --51 Easter
+    MadokaEvo = {{Name = 'You Shall Never Despair', Upgrades=11}},
+    AkameEvo = {{Name = "Marasame's Curse", Upgrades=11}},
+    BrunoEvo = {{Name = 'Zipper Dissection', Upgrades=10}},
+    --50
+    WangLingEvo = {{Name = 'World Rewind', Upgrades=11}, {Name = 'Reality Sword', Upgrades=12}, {Name = 'Erase Existence', Upgrades=12}},
+    AnosEvo = {{Name = '7 Step Destruction', Upgrades=12}},
+    ChihiroEvo = {{Name = 'Cloud Sword', Upgrades=11}},
+    --49 Fire Force
+    BenimaruEvo = {{Name = 'Perfect Pyrokenesis', Upgrades=11}},
+    ShinraAdolla = {{Name = 'Allado Burst', Upgrades=11}},
+    ArthurStarRing = {{Name = 'Elemental Power', Upgrades=12}, {Name = 'Execution', Upgrades=12}, {Name = 'Worthiness', Upgrades=12}},
+    --48 Saint Patrick
+    KiritoStarKing = {{Name = 'Release', Upgrades=12}},
+--    ShirouEvo
+    --47 Blue Cock
+    IsagiEvo = {{Name = 'Luck', Upgrades=11}},
+    ShidouEvo = {{Name = 'Ultimate Drive', Upgrades=10}},
+    --46 Godly QoL
+    Homura = {{Name = 'Time Control', Upgrades=0}},
+    --45 OPM
+    DamagedSaitama = {{Name = 'Serious Sneeze', Upgrades=11}},
+    TatsumakiEvo = {{Name = 'Psychic Hurricane', Upgrades=10}},
+    --44 Valentine P2
+    RogerEvo = {{Name = 'Celestial Rend', Upgrades=10}},
+    --43 Valentine P1
+    MitsuriEvo = {{Name = "Swordswoman's Mark", Upgrades=11}},
+    IsseiEvo = {{Name = 'BOOST!', Upgrades=9}},
+    YoruichiEvo = {{Name = 'Thunder Goddess', Upgrades=10}},
     Giorno_GER = {{Name = 'Zero', Upgrades=8}},
     ['Dio Greatest High'] = {{Name = 'Za Warudo!', Upgrades=9}},
     CID = {{Name = 'I AM ATOMIC!', Upgrades=7}},
