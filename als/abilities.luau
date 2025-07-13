@@ -1,6 +1,7 @@
 local abilities = {
     --Godly
     FrierenGodly = {{Name = "Mage's Staff", Upgrades=0}, {Name = 'Black Hole', Upgrades=13}, {Name = 'Ancient Golem', Upgrades=12}, {Name = 'Mastered Zeltreck', Upgrades=8}},
+    FrierenGodlyShiny = {{Name = "Mage's Staff", Upgrades=0}, {Name = 'Black Hole', Upgrades=13}, {Name = 'Ancient Golem', Upgrades=12}, {Name = 'Mastered Zeltreck', Upgrades=8}},
     GilgameshGodly = {{Name = 'Enomo Olis', Upgrades=9}, {Name = 'Combined Noble Special: Enomo Olis', Upgrades=12}},
     ShinraGodly = {Neutral = {{Name = 'Fabric of Reality', Upgrades=12}}, Dark = {{Name = 'Despair', Upgrades=12}}, Light = {{Name = 'Lightning Shower', Upgrades=12}}, Fire = {{Name = 'Volcanic Eruption', Upgrades=12}}, Nature = {{Name = 'Purification of Life', Upgrades=12}}, Water = {{Name = 'Ice Terrain', Upgrades=12}}},
     CosmicGarou = {{Name = 'Galactic Destroyer', Upgrades=11}, {Name = 'Serious Punch', Upgrades=11}},
