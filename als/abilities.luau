@@ -14,7 +14,11 @@ local abilities = {
     SukunaGodly = {{Name = 'Divine Flames', Upgrades=11}, {Name = 'Evil Shrine', Upgrades=12}, {Name = 'World Cutting Slash', Upgrades=13}},
     EscanorGodly = {{Name = 'The One Ultimate', Upgrades=11}},
     --EZA
-    GojoEvo2EZA = {{Name = 'Unlimited Void', Upgrades=3}, {Name = 'Purple: MAXIMUM EX', Upgrades=11}},
+    GojoEvo2EZA = {
+        { Name = "Unlimited Void", Upgrades = 3, MaxUpgrade = 10 }, 
+        { Name = "Limitless Void",   Upgrades = 11 },
+        { Name = "Purple: MAXIMUM EX", Upgrades = 11 }
+    },
     GilgameshEvoEZA = {{Name = 'Enhanced Heavenly Sword', Upgrades=10}},
     DarkSaberEZA = {{Name = 'Dark Corruption', Upgrades=9}, {Name = 'Corrupted Excalibur', Upgrades=10}},
     VegitoSSJBEZA = {{Name = 'Energy Beam', Upgrades=12}, {Name = 'Godly Energy Beam', Upgrades=14}},
