@@ -139,4 +139,3 @@ local abilities = {
 }
 
 return abilities;
-x1
