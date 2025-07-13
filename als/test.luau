@@ -11,14 +11,12 @@ local abilities = {
         {{Name = 'Combined Noble Special: Enomo Olis', Upgrades=12}},
     },
     ShinraGodly = {
-        {
-            Neutral = {{Name = 'Fabric of Reality', Upgrades=12}},
-            Dark = {{Name = 'Despair', Upgrades=12}},
-            Light = {{Name = 'Lightning Shower', Upgrades=12}},
-            Fire = {{Name = 'Volcanic Eruption', Upgrades=12}},
-            Nature = {{Name = 'Purification of Life', Upgrades=12}},
-            Water = {{Name = 'Ice Terrain', Upgrades=12}},
-        },
+            Neutral = {{Name = 'Fabric of Reality', Upgrades=12}},
+            Dark = {{Name = 'Despair', Upgrades=12}},
+            Light = {{Name = 'Lightning Shower', Upgrades=12}},
+            Fire = {{Name = 'Volcanic Eruption', Upgrades=12}},
+            Nature = {{Name = 'Purification of Life', Upgrades=12}},
+            Water = {{Name = 'Ice Terrain', Upgrades=12}}
     },
     CosmicGarou = {
         {{Name = 'Galactic Destroyer', Upgrades=11}},
