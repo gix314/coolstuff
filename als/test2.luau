@@ -15,11 +15,9 @@ local abilities = {
     EscanorGodly = {{Name = 'The One Ultimate', Upgrades=11}},
     --EZA
     GojoEvo2EZA = {
-      {
-        {Name = 'Unlimited Void', Upgrades=3},
-        {Name = 'Limitless Void', Upgrades=11}
-      },
-        {Name = 'Purple: MAXIMUM EX', Upgrades=11}
+        { Name = "Unlimited Void", Upgrades = 3, MaxUpgrade = 10 }, 
+        { Name = "Limitless Void",   Upgrades = 11 },
+        { Name = "Purple: MAXIMUM EX", Upgrades = 11 }
     },
     GilgameshEvoEZA = {{Name = 'Enhanced Heavenly Sword', Upgrades=10}},
     DarkSaberEZA = {{Name = 'Dark Corruption', Upgrades=9}, {Name = 'Corrupted Excalibur', Upgrades=10}},
