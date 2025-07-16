@@ -14,6 +14,8 @@ local abilities = {
     SukunaGodly = {{Name = 'Divine Flames', Upgrades=11}, {Name = 'Evil Shrine', Upgrades=12}, {Name = 'World Cutting Slash', Upgrades=13}},
     EscanorGodly = {{Name = 'The One Ultimate', Upgrades=11}},
     --EZA
+    DamagedSaitamaEZA = {{Name = 'Serious', Upgrades=0}, {Name = 'Normal Punch', Upgrades=0}, {Name = 'Deadly Serious Punch', Upgrades=0}},
+    KiritoStarKingEZA = {{Name = 'Starburst Strikes', Upgrades=10}, {Name = 'Black Swordsman Release', Upgrades=11}},
     GojoEvo2EZA = {
         { Name = "Unlimited Void", Upgrades = 3, MaxUpgrade = 10 }, 
         { Name = "Limitless Void",   Upgrades = 11 },
