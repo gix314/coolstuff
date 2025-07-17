@@ -25,6 +25,8 @@ local abilities = {
     DarkSaberEZA = {{Name = 'Dark Corruption', Upgrades=9}, {Name = 'Corrupted Excalibur', Upgrades=10}},
     VegitoSSJBEZA = {{Name = 'Energy Beam', Upgrades=12}, {Name = 'Godly Energy Beam', Upgrades=14}},
     --Normal
+    --62
+    GriffithEclipse = {{Name = 'Sacrifice', Upgrades=0}},
     --61
     FernEvo = {{Name = 'Zeltreck', Upgrades=0}, {Name = 'Protective Blessing', Upgrades=10}},
     HarribelEvo = {{Name = 'Tsunami', Upgrades=9}},
