@@ -25,6 +25,10 @@ local abilities = {
     DarkSaberEZA = {{Name = 'Dark Corruption', Upgrades=9}, {Name = 'Corrupted Excalibur', Upgrades=10}},
     VegitoSSJBEZA = {{Name = 'Energy Beam', Upgrades=12}, {Name = 'Godly Energy Beam', Upgrades=14}},
     --Normal
+    --63
+    ShanksEvo2 = {{Name = 'Conquering Aura', Upgrades=7}, {Name = 'The Conquerer of All', Upgrades=13}},
+    GarpEvo2 = {{Name = 'Cannon Shot', Upgrades=6}, {Name = 'Glorious Nebula', Upgrades=13}},
+    AokijiEvo2 = {{Name = 'Ice Age', Upgrades=14}},
     --62
     GriffithEclipse = {{Name = 'Sacrifice', Upgrades=0}},
     --61
