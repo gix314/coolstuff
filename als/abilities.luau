@@ -25,6 +25,13 @@ local abilities = {
     DarkSaberEZA = {{Name = 'Dark Corruption', Upgrades=9}, {Name = 'Corrupted Excalibur', Upgrades=10}},
     VegitoSSJBEZA = {{Name = 'Energy Beam', Upgrades=12}, {Name = 'Godly Energy Beam', Upgrades=14}},
     --Normal
+    --64
+    ChrolloEvo = {{Name = 'Light & Dark', Upgrades=9}, {Name = 'Skill Thief', Upgrades=9}},
+    Killua2Evo = {{Name = 'Godspeed Whirlwind', Upgrades=8}},
+    GonFinal = {{Name = "I'll Use Everything.", Upgrades=7}, {Name = 'End.', Upgrades=7}},
+    KurapikaEvo = {{Name = 'Chains', Upgrades=8}},
+    HisokaEvo = {{Name = 'Pulling your Heartstrings', Upgrades=8}},
+    IllumiEvo = {{Name = 'Transfiguration', Upgrades=0}},
     --63
     ShanksEvo2 = {{Name = 'Conquering Aura', Upgrades=7}, {Name = 'The Conquerer of All', Upgrades=13}},
     GarpEvo2 = {{Name = 'Cannon Shot', Upgrades=6}, {Name = 'Glorious Nebula', Upgrades=13}},
