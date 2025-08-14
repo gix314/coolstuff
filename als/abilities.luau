@@ -1,5 +1,6 @@
 local abilities = {
     --Godly
+    JohnnyGodly = {{Name = 'Wormhole', Upgrades=7}, {Name = 'Herbal Tea', Upgrades=6}, {Name = 'The Final Lesson', Upgrades=6}},
     FrierenGodly = {{Name = "Mage\226\128\153s Staff", Upgrades=0}, {Name = 'Black Hole', Upgrades=13}, {Name = 'Ancient Golem', Upgrades=12}, {Name = 'Mastered Zeltreck', Upgrades=8}},
     FrierenGodlyShiny = {{Name = "Mage\226\128\153s Staff", Upgrades=0}, {Name = 'Black Hole', Upgrades=13}, {Name = 'Ancient Golem', Upgrades=12}, {Name = 'Mastered Zeltreck', Upgrades=8}},
     GilgameshGodly = {{Name = 'Enomo Olis', Upgrades=9}, {Name = 'Combined Noble Special: Enomo Olis', Upgrades=12}},
@@ -7,7 +8,7 @@ local abilities = {
     CosmicGarou = {{Name = 'Galactic Destroyer', Upgrades=11}, {Name = 'Serious Punch', Upgrades=11}},
     LuffyG5 = {{Name = 'Ultimate Gun', Upgrades=13}},
     SungMonarch = {{Name = 'System', Upgrades=0}, {Name = 'Shadow Index', Upgrades=6}, {Name = 'Cup Of Rebirth', Upgrades=14}},
-    JinMoriGodly = {{Name = 'Nirvana', Upgrades=10}},
+    JinMoriGodly = {{Name = 'Clone Systhesis', Upgrades=8}, {Name = 'Reality', Upgrades=8}},
     GokuMUI = {{Name = 'Divine Avatar', Upgrades=12}, {Name = 'Final Spiritual Bomb', Upgrades=13}},
     Mugetsu = {{Name = 'Kai Release', Upgrades=0}},
     ['Dio Over Heaven'] = {{Name = 'Road Roller', Upgrades=11}, {Name = 'Over Heaven Special', Upgrades=13}},
@@ -25,6 +26,11 @@ local abilities = {
     DarkSaberEZA = {{Name = 'Dark Corruption', Upgrades=9}, {Name = 'Corrupted Excalibur', Upgrades=10}},
     VegitoSSJBEZA = {{Name = 'Energy Beam', Upgrades=12}, {Name = 'Godly Energy Beam', Upgrades=14}},
     --Normal
+    --65
+    GappyEvo = {{Name = 'GO BEYOND!!!', Upgrades=8}},
+    Gyro2Evo = {{Name = 'Perfect Ratio', Upgrades=7}},
+    ValentineEvo = {{Name = 'Love Car', Upgrades=4}, {Name = 'Dimensional Collapse', Upgrades=7}},
+    WonderOfYouEvo = {{Name = 'Post-Death Resonance', Upgrades=7}},
     --64
     ChrolloEvo = {{Name = 'Light & Dark', Upgrades=9}, {Name = 'Skill Thief', Upgrades=9}},
     Killua2Evo = {{Name = 'Godspeed Whirlwind', Upgrades=8}},
