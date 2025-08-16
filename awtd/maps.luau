@@ -59,16 +59,11 @@ local maps = {
     ['Boss Rush'] = {Event = true},
     --
     ['The Fascinating Horizon'] = {SD = true},
-    ['The Fascinating Horizon EX'] = {SD = true},
     ['Shadow Realm[Destroyed]'] = {SD = true},
-    ['Shadow Realm[Destroyed] EX'] = {SD = true},
     ['Collapsed Camelot'] = {SD = true},
     ['Dark Future'] = {SD = true},
-    ['Dark Future EX'] = {SD = true},
     ['Gold Rush'] = {SD = true},
-    ['Gold Rush EX'] = {SD = true},
     ['Crystal Cave'] = {SD = true},
-    ['Crystal Cave EX'] = {SD = true},
 };
 
 return maps
