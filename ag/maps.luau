@@ -26,10 +26,11 @@ local maps = {
 ['Crystal Mine'] = {Misc = true},
 ['Vampire Castle Act'] = {Misc = true},
 ['Nazarick Mausoleum'] = {Misc = true},
+-- Worldline
 ['Double Dungeon'] = {WL = true},
 ['Double Dungeon 2'] = {WL = true},
-['Lingxian Academy'] = {Misc = true},
-['Lingxian Yard'] = {Misc = true},
+['Lingxian Academy'] = {WL = true},
+['Lingxian Yard'] = {WL = true},
 -- Event
 ['Verdant Shroud'] = {E = true},
 ['Lunaris Isle'] = {E = true},
