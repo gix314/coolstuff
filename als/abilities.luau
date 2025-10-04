@@ -1,5 +1,6 @@
 local abilities = {
     --Godly
+    NarutoGodly = {{Name = 'Spiralling Shuriken', Upgrades=3}, {Name = 'Lava Release: Spiralling Shuriken', Upgrades=11}},
     JohnnyGodly = {{Name = 'Wormhole', Upgrades=7}, {Name = 'Herbal Tea', Upgrades=6}, {Name = 'The Final Lesson', Upgrades=6}},
     FrierenGodly = {{Name = "Mage\226\128\153s Staff", Upgrades=0}, {Name = 'Black Hole', Upgrades=13}, {Name = 'Ancient Golem', Upgrades=12}, {Name = 'Mastered Zeltreck', Upgrades=8}},
     FrierenGodlyShiny = {{Name = "Mage\226\128\153s Staff", Upgrades=0}, {Name = 'Black Hole', Upgrades=13}, {Name = 'Ancient Golem', Upgrades=12}, {Name = 'Mastered Zeltreck', Upgrades=8}},
@@ -15,6 +16,10 @@ local abilities = {
     SukunaGodly = {{Name = 'Divine Flames', Upgrades=11}, {Name = 'Evil Shrine', Upgrades=12}, {Name = 'World Cutting Slash', Upgrades=13}},
     EscanorGodly = {{Name = 'The One Ultimate', Upgrades=11}},
     --EZA
+    PainEdoEZA = {{Name = 'Divine Paths', Upgrades=7}},
+    RengokuDemonEZA = {{Name = 'Demon Art: Cataclysmic Eruption', Upgrades=9}, {Name = 'Demon Burst: Roaring Tiger', Upgrades=13}},
+    TengenEvoEZA = {{Name = 'Musical Score', Upgrades=10}},
+    Rukia_KaiEZA = {{Name = 'Total Cold', Upgrades=9}},
     DamagedSaitamaEZA = {{Name = 'Serious', Upgrades=0}, {Name = 'Normal Punch', Upgrades=0}, {Name = 'Deadly Serious Punch', Upgrades=0}},
     KiritoStarKingEZA = {{Name = 'Starburst Strikes', Upgrades=10}, {Name = 'Black Swordsman Release', Upgrades=11}},
     GojoEvo2EZA = {
@@ -26,6 +31,32 @@ local abilities = {
     DarkSaberEZA = {{Name = 'Dark Corruption', Upgrades=9}, {Name = 'Corrupted Excalibur', Upgrades=10}},
     VegitoSSJBEZA = {{Name = 'Energy Beam', Upgrades=12}, {Name = 'Godly Energy Beam', Upgrades=14}},
     --Normal
+    --70
+    SephirothEvo = {{Name = 'Supernova', Upgrades=10}},
+    AerithEvo = {{Name = 'Healing Burst', Upgrades=8}, {Name = 'Sealing Of Evil', Upgrades=8}, {Name = 'Planetary Protection', Upgrades=8}},
+    CloudStrifeEvo = {{Name = 'Air Splitter', Upgrades=8}},
+    --69
+    SasukeAdult = {{Name = 'Eternal Eye', Upgrades=0}, {Name = 'Divine Eye', Upgrades=4}},
+    SasukeAdultShiny = {{Name = 'Eternal Eye', Upgrades=0}, {Name = 'Divine Eye', Upgrades=4}},
+    Isshiki = {{Name = 'Ocular Switch', Upgrades=0}, {Name = 'Double Impact', Upgrades=0}},
+    BorutoKama = {{Name = 'Massive Spiralling Sphere', Upgrades=7}},
+    --68
+    KokushiboEvo = {{Name = '16th, Half Moon', Upgrades=10}},
+    ZenitsuGod = {{Name = 'First Form', Upgrades=3}, {Name = 'Seventh Form', Upgrades=8}},
+    AkazaEvo = {{Name = 'Technique Development: Final Form', Upgrades=10}},
+    AkazaEvoShiny = {{Name = 'Technique Development: Final Form', Upgrades=10}},
+    ShinobuEvo = {{Name = 'Hundred Legged ZigZag', Upgrades=10}},
+    --67
+    AizenTranscendent = {{Name = 'Reality Shatter', Upgrades=10}},
+    UlquiorraTranscendent = {{Name = 'Feather Retraction', Upgrades=0}, {Name = 'Rend To Nothingness', Upgrades=10}},
+    RenjiEvo = {{Name = 'Higa Zekko', Upgrades=8}},
+    UryuEvo = {{Name = 'Arrow Barrage', Upgrades=10}},
+    ShinjiEvo = {{Name = 'Reversed Evil', Upgrades=10}},
+    SoifonEvo = {{Name = 'Jakuho Raikoben', Upgrades=10}},
+    --66
+    AlphonseEvo = {{Name = 'Encasement', Upgrades=5}},
+    EdwardElricEvo = {{Name = 'Blood Pact', Upgrades=6}, {Name = 'Offensive Teamup', Upgrades=10}, {Name = 'Defensive Teamup', Upgrades=10}},
+    RoyEvo = {{Name = "Broken Man's Echo", Upgrades=6}},
     --65
     GappyEvo = {{Name = 'GO BEYOND!!!', Upgrades=8}},
     Gyro2Evo = {{Name = 'Perfect Ratio', Upgrades=7}},
@@ -149,6 +180,7 @@ local abilities = {
     B2EvoShiny = {{Name = 'Self Destruction', Upgrades = 11}},
     Lancer = {{Name = 'Gaí Bolgé', Upgrades=8}},
     LancerShiny = {{Name = 'Gaí Bolgé', Upgrades=8}},
+    MiyabiEvo = {{Name = 'Miyuki', Upgrades=10}},
     --Farm
     AiHoshinoEvo = {{Name = 'Concert', Upgrades=6}},
     --Special
