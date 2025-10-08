@@ -32,6 +32,14 @@ local abilities = {
     DarkSaberEZA = {{Name = 'Dark Corruption', Upgrades=9}, {Name = 'Corrupted Excalibur', Upgrades=10}},
     VegitoSSJBEZA = {{Name = 'Energy Beam', Upgrades=12}, {Name = 'Godly Energy Beam', Upgrades=14}},
     --Normal
+    --71 Halloween 2025
+    Alucard2Evo = {{Name = 'Restriction Levels', Upgrades=0}, {Name = 'Hypnosis', Upgrades=4}},
+    LelouchEvo = {{Name = 'Submission', Upgrades=0}, {Name = 'All of you, Die!!', Upgrades=0}},
+    LelouchEvoShiny = {{Name = 'Submission', Upgrades=0}, {Name = 'All of you, Die!!', Upgrades=0}},
+    MobEvo = {{Name = '100%...', Upgrades=10}},
+    LightEvo = {{Name = 'Write Names', Upgrades=0}, {Name = 'Deal with the Devil', Upgrades=0}, {Name = 'AHHAAHAHA I WIN!', Upgrades=0}},
+    JudarEvo = {{Name = 'Magic Attunement', Upgrades=0}},
+    AsuraEvo = {{Name = 'Lines of Sanzu', Upgrades=11}},
     --70
     SephirothEvo = {{Name = 'Supernova', Upgrades=10}},
     AerithEvo = {{Name = 'Healing Burst', Upgrades=8}, {Name = 'Sealing Of Evil', Upgrades=8}, {Name = 'Planetary Protection', Upgrades=8}},
