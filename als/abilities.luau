@@ -193,6 +193,7 @@ local abilities = {
     --Farm
     AiHoshinoEvo = {{Name = 'Concert', Upgrades=6}},
     --Special
+    TuskSummon_Act4 = {{Name = 'Chumimiiii', Upgrades=6}},
     GodlyEnkidu = {{Name = 'Enomo Olis: Bloom', Upgrades=8}},
     Rika_Summon = {{Name = 'Beam of Love', Upgrades=0}},
     GokuVegetaFusion = {{Name = 'Spirit Finisher', Upgrades=11}, {Name = 'Final Energy Beam', Upgrades=12}},
