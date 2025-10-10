@@ -68,7 +68,7 @@ local abilities = {
     RoyEvo = {{Name = "Broken Man's Echo", Upgrades=6}},
     --65
     GappyEvo = {{Name = 'GO BEYOND!!!', Upgrades=8}},
-    Gyro2Evo = {{Name = 'Perfect Ratio', Upgrades=7}},
+    Gyro2Evo = {{Name = 'Perfect Raito', Upgrades=7}},
     ValentineEvo = {{Name = 'Love Car', Upgrades=4}, {Name = 'Dimensional Collapse', Upgrades=7}},
     WonderOfYouEvo = {{Name = 'Post-Death Resonance', Upgrades=7}},
     --64
