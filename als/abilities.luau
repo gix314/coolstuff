@@ -2,7 +2,7 @@ local abilities = {
     --Godly
     NarutoBaryon = {{Name = 'Spiralling Shuriken', Upgrades=3}, {Name = 'Lava Release: Spiralling Shuriken', Upgrades=11}},
     NarutoGodly = {{Name = 'Spiralling Shuriken', Upgrades=3}, {Name = 'Lava Release: Spiralling Shuriken', Upgrades=11}},
-    JohnnyGodly = {{Name = 'Wormhole', Upgrades=7}, {Name = 'Herbal Tea', Upgrades=6}, {Name = 'The Final Lesson', Upgrades=6}},
+    JohnnyGodly = {{Name = 'Herbal Tea', Upgrades=6}, {Name = 'Wormhole', Upgrades=7}, {Name = 'The Final Lesson', Upgrades=6}},
     FrierenGodly = {{Name = "Mage\226\128\153s Staff", Upgrades=0}, {Name = 'Black Hole', Upgrades=13}, {Name = 'Ancient Golem', Upgrades=12}, {Name = 'Mastered Zeltreck', Upgrades=8}},
     FrierenGodlyShiny = {{Name = "Mage\226\128\153s Staff", Upgrades=0}, {Name = 'Black Hole', Upgrades=13}, {Name = 'Ancient Golem', Upgrades=12}, {Name = 'Mastered Zeltreck', Upgrades=8}},
     GilgameshGodly = {{Name = 'Enomo Olis', Upgrades=9}, {Name = 'Combined Noble Special: Enomo Olis', Upgrades=12}},
